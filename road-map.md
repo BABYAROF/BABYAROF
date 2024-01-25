@@ -29,6 +29,7 @@ description: BABY AROF project roadmap
 
 * [x] Complete the cooperation plan with the COE project
 * [x] Write a shop contract to start a traditional business
+* [x] Token list on coingecko
 * [ ] Complete the necessary permits to start a business
 * [ ] Get a government loan to start a business
 * [ ] Start rebuilding the shop
