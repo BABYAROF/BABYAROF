@@ -8,4 +8,8 @@ description: BABY AROF with DIP20 standard and maximum liquidity of 110 million
 
 <mark style="color:blue;">**Thanks to the validity of the ICP token, you can convert BABY AROF tokens into banknotes wherever you are in the world.**</mark>
 
-<mark style="color:green;">**The BABY AROF token is fully decentralized and all liquidity documents have been sent to the black hole**</mark>
+<mark style="color:green;">**The BABY AROF token is fully decentralized and all liquidity documents have been sent to the black hole.**</mark>
+
+{% content-ref url="tokonomics/" %}
+[tokonomics](tokonomics/)
+{% endcontent-ref %}

@@ -17,3 +17,7 @@ You can proceed through the following link and check the amount of locked assets
 <figure><img src="../../.gitbook/assets/رر3.JPG" alt=""><figcaption><p>6/18/2023</p></figcaption></figure>
 
 The image above shows exactly how much ICP is locked in the ICP blockchain along with BABY AROF. You can check this item with other pairs and it is also suggested to check these items first before investing in any project.
+
+{% content-ref url="decentralized-documentation.md" %}
+[decentralized-documentation.md](decentralized-documentation.md)
+{% endcontent-ref %}

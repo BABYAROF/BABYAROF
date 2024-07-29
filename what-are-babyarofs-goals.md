@@ -34,3 +34,7 @@ In this increase in the volume of BABYAROF token transactions, more fees will be
 
 
 > **In this way, the first stream of community-oriented economy will be created to link the market and traditional businesses with the structure of decentralized tokens.**
+
+{% content-ref url="baby-arof-tokens/" %}
+[baby-arof-tokens](baby-arof-tokens/)
+{% endcontent-ref %}

@@ -49,6 +49,9 @@ Section 4 of the roadmap was added to the BABY AROF white paper on 7/30/2024:
 * [ ] The new wave of publishing advertising content
 * [ ] Creating a farm for BABYAROF/ckBTC trading pair
 * [ ] Farm creation for trading pair BABYAROF/ICP in Dex Sonic
+* [ ] The members of the FOOD COE customer club will reach 200 people
+* [ ] Recruitment of labor for FOOD COE
+* [ ] Conducting the first business development conference hosted by FOOD COE in the geographical location
 
 <mark style="color:red;">**This system will continue and the rest of the development road map will be determined and planned with the help of the community in voting events.**</mark>
 

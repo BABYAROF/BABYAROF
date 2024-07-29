@@ -26,3 +26,6 @@ After the lottery NFT sales period ends and the winners are determined, we will 
 
 > **Be sure to follow BABY AROF project's social networks to get the latest news**
 
+{% content-ref url="food.coe.md" %}
+[food.coe.md](food.coe.md)
+{% endcontent-ref %}

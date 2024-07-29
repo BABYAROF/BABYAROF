@@ -23,3 +23,7 @@ Buy in person, receive NFT, monthly reward in the form of COE token. Purchased C
 **But the implementation of such an idea is undoubtedly not an easy task and all the details need to be taken into account in order to be properly effective. We suggest that you read the** [**COE**](https://coe-co.gitbook.io/coe-project-white-paper/) **project if you want to get detailed information.**
 
 <mark style="color:yellow;">At the time of rewriting this section on (7/30/2024), FOOD COE sandwich shop was launched and has been successfully operating for more than 60 days. This plan has been noticed among real users and the number of holders of FOOD COE</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**NFTs**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">is increasing every day. If you wish, you can read the</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**FOOD COE**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">white paper.</mark> [<mark style="color:blue;">**Click**</mark>](https://foods-organization-2.gitbook.io/food-coe)
+
+{% content-ref url="road-map.md" %}
+[road-map.md](road-map.md)
+{% endcontent-ref %}

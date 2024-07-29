@@ -28,3 +28,7 @@ Review of ICP documents
 {% embed url="https://info.icpswap.com/token/details/iy6hh-xaaaa-aaaan-qauza-cai" %}
 BABY AROF token controller review
 {% endembed %}
+
+{% content-ref url="../../dao-structure/" %}
+[dao-structure](../../dao-structure/)
+{% endcontent-ref %}

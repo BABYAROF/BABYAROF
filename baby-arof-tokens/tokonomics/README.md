@@ -25,3 +25,7 @@ The project burns up to 90% of BABY AROF tokens. After completing this token bur
 <mark style="color:red;">As mentioned in the previous sections, at the time of writing this article, more than 50 million tokens are locked in the pool and 14 million tokens have been burned, and you can learn how to check the rest of the tokens in the training section.</mark>
 
 {% embed url="https://app.gitbook.com/s/8FF4tYu7SHIHaX5rL3J9/~/changes/21/education" %}
+
+{% content-ref url="review-of-holders-and-market-cap.md" %}
+[review-of-holders-and-market-cap.md](review-of-holders-and-market-cap.md)
+{% endcontent-ref %}

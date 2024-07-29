@@ -38,3 +38,7 @@ EXT/DIP20
 {% embed url="https://info.icpswap.com/nft/view/4lnl6-hqaaa-aaaag-qblla-cai/1220" %}
 EXT/DIP20
 {% endembed %}
+
+{% content-ref url="complete-decentralization.md" %}
+[complete-decentralization.md](complete-decentralization.md)
+{% endcontent-ref %}

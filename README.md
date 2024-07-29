@@ -23,3 +23,7 @@ The BABY AROF project was created as a small memecoin with the aim of accelerati
 As you read this article today, BABY AROF is a completely decentralized token. BABY AROF is ready to pump again after every wave of supply and demand. BABY AROF burns up to 90%, this token burn can quickly turn BABY AROF into a rare token.
 
 <mark style="color:red;">**BABY AROF is getting ready for seasonal flights and we will review the reason for these flights later.**</mark>
+
+{% content-ref url="what-are-babyarofs-goals.md" %}
+[what-are-babyarofs-goals.md](what-are-babyarofs-goals.md)
+{% endcontent-ref %}

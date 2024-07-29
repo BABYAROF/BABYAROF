@@ -24,3 +24,6 @@ With the help of the link below, you can check all transactions related to the t
 
 <figure><img src="../../.gitbook/assets/ذذ3.JPG" alt=""><figcaption></figcaption></figure>
 
+{% content-ref url="check-price-and-tvl.md" %}
+[check-price-and-tvl.md](check-price-and-tvl.md)
+{% endcontent-ref %}
